@@ -13,4 +13,7 @@ IAM Users End users who log into the console or interact with AWS reesources pro
 IAm Groups Group up your Users so they all share permission levels of the group
 eg. Administrators, Developers, Auditors
 IAM roles Associate permissions to a role and then assign this to an Users, or Groups
-IAM Policies JSON documents which grant permission for a specific user, groups, or roles to access services
+IAM Policies JSON documents which grant permission for a specific user, groups, or roles to access services. Policies are attached too to IAM Identities
+Management Policies are policies provided by AWS and cannot be edited
+Customer Management Policies are policies created by use the customer,which you can edit
+
