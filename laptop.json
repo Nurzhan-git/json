@@ -2,7 +2,9 @@
     "type": "Mackbook",
      "color": ["grey", "black","white"],
      "number": 3,
-     "size": ["13","16","23"],
-    
+     "size ":{
+"height": 0.16,
+"weidth": 11.19
+
     }
- 
+}
