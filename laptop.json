@@ -3,8 +3,7 @@
      "color": ["grey", "black","white"],
      "number": 3,
      "size ":{
-"height": 0.16,
-"weidth": 11.19
-
-    }
+        "height": 0.16,
+        "weidth": 11.17
+     }
 }
