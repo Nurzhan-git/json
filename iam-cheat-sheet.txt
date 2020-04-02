@@ -3,3 +3,4 @@ IAM is a universal system.(applied to all regions at the same time).IAM is a fre
 A root account is the account initially created when AWS is set up(full administrator)
 New IAM account have no permissin by default until granted
 New users get assined an Access Key Id and Secret when first created when you give them progmmatic access
+Acces Keys are only used for CLI and SDK(cannot access console)
