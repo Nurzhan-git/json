@@ -1,0 +1,20 @@
+{
+    "guests": ["Nurzhan", "Dalmira", "Temirlan"],
+    "respons-s": {
+    "baikal": {
+        "food": [
+            {
+                "drinks": ["coke", "sprite"],
+                "salad": "ceasar" 
+                }
+              ]
+
+        },
+        "aman": {
+            "food": [
+                {
+                    "drinks": ["juce", "energy"],
+                    "salad": "fresh"
+                }
+               
+            
