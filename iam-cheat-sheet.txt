@@ -16,4 +16,5 @@ IAM roles Associate permissions to a role and then assign this to an Users, or G
 IAM Policies JSON documents which grant permission for a specific user, groups, or roles to access services. Policies are attached too to IAM Identities
 Management Policies are policies provided by AWS and cannot be edited
 Customer Management Policies are policies created by use the customer,which you can edit
+Inline policies are policies which are directly attached to a user
 
