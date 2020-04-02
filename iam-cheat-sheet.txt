@@ -6,3 +6,4 @@ New users get assined an Access Key Id and Secret when first created when you gi
 Acces Keys are only used for CLI and SDK(cannot access console)
 Access keys are only shown once when created. If lost they must be deleted/recreated again
 Alway set up MFA for Root Accounts
+Users must enable MFA on their own, Administrator cannot turn it on for each user
