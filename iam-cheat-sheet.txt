@@ -1,3 +1,3 @@
 Identitity Access Management is used to manage access to users and resources
 IAM is a universal system.(applied to all regions at the same time).IAM is a free service
-
+A root account is the account initially created when AWS is set up(full administrator)
