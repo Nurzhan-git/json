@@ -8,3 +8,8 @@ Access keys are only shown once when created. If lost they must be deleted/recre
 Alway set up MFA for Root Accounts
 Users must enable MFA on their own, Administrator cannot turn it on for each user
 IAM allows your set password policies to set minimum password requirements or rotate passwords
+IAM Identities as Users,Groups and Roles
+IAM Users End users who log into the console or interact with AWS reesources programmatically 
+IAm Groups Group up your Users so they all share permission levels of the group
+eg. Administrators, Developers, Auditors
+IAM roles Associate permissions to a role and then assign this to an Users, or Groups
