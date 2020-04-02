@@ -1,7 +1,8 @@
 {
     "type": "galaxy",
      "color": ["green", "grey"],
-     "number": 2
-   
- }
+     "number": 2,
+     "size": ["S","M","L"],
+    
+    }
  
