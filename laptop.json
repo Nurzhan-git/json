@@ -2,6 +2,7 @@
     "type": "Mackbook",
      "color": ["grey", "black","white"],
      "number": 3,
+     "storage": ["256GB", "512GB"], 
      "size ": {
         "height": 0.16,
         "weidth": 11.17
