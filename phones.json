@@ -1,6 +1,7 @@
 {
     "type": "galaxy",
-     "color": ["green", "grey"]
+     "color": ["green", "grey"],
+     "number": 2
    
  }
  
