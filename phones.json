@@ -1,6 +1,6 @@
 {
     "type": "galaxy",
-     "color": "green"
+     "color": ["green", "grey"]
    
  }
  
