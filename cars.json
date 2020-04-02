@@ -1,0 +1,8 @@
+{
+    "model": "toyota",
+     "make": ["avalon" ,"camry"],
+     "number": 2,
+     "complectation": ["CE","LE","XLE"],
+    
+    }
+ 
